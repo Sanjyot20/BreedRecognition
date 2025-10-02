@@ -1,0 +1,4 @@
+supabase==2.20.0
+pillow
+numpy
+tensorflow
